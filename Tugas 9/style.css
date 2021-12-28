@@ -1,0 +1,17 @@
+
+.main{
+    width: 700px;
+    height: 750px;
+    background-color: #ffffff;
+    position: absolute;
+    float: right;
+    top: 20px;
+    right: 15px;
+}
+h1{
+    text-align: right;
+}
+p{
+    text-align: right;
+    font-weight: bold;
+}
